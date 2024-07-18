@@ -159,26 +159,7 @@
       "cars_sold": 45,
       "description": "The Bugatti Chiron is a hypercar renowned for its unparalleled performance and exquisite design. Launched in 2016, it features an 8.0-liter quad-turbocharged W16 engine that produces an astonishing 1,479 horsepower, allowing it to achieve extraordinary speeds. With its luxurious interior and advanced aerodynamics, the Chiron represents the pinnacle of automotive engineering and craftsmanship",
       "poster": "https://storage.googleapis.com/pod_public/1300/166787.jpg"
-    },
-    {
-      "id": "17",
-      "title": "Black Range Rover",
-      "topspeed": "225",
-      "capacity": 30,
-      "horsepower": "654",
-      "cars_sold": 16,
-      "description": "The Black Range Rover is a luxurious and versatile SUV known for its commanding presence and advanced capabilities. Combining elegant design with off-road prowess, it features a sophisticated interior with premium materials and cutting-edge technology. Equipped with powerful engine options, the Range Rover delivers a smooth and powerful driving experience, both on and off the road.",
-      "poster": "https://wallpaperaccess.com/full/2103829.jpg"
-    },
-    {
-      "id": "18",
-      "title": "Toyota GR Supra A91",
-      "topspeed": "250",
-      "capacity": 50,
-      "horsepower": "900",
-      "cars_sold": 45,
-      "description": "The Toyota GR Supra A91 is a high-performance sports car known for its sleek design and impressive handling. It's equipped with a turbocharged inline-six engine producing around 382 horsepower and 368 lb-ft of torque. This model emphasizes agility and speed, capable of accelerating from 0 to 60 mph in just over 4 seconds.",
-      "poster": "https://static.displate.com/380x270/displate/2023-05-22/8389225eeef6058addf1efb6d368dc1d_4c4958cb4088ceb9f58251712cd908ae.jpg"
     }
+ 
   ]
 }
